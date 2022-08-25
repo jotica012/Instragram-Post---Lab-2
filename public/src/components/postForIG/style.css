@@ -1,0 +1,110 @@
+.user{
+    position: relative;
+    top: 0px;
+    right: 0px;
+    left: 10px;
+    width: 45px;
+    height: 45px;
+
+    clip-path: circle(50%);
+
+}
+
+.dots{
+    transform: rotate(90deg);
+    width: 15px;
+    height: 15px;
+    position: relative;
+    left: 350px;
+    top: 0px;
+    bottom: 20px;
+}
+
+.title{
+    position: relative;
+    bottom: 52px;
+    left: 65px;
+    font-family: 'ubuntu', serif;
+    font-size: 13px;
+}
+
+.bg{
+    position: relative;
+    bottom: 60px;
+    left: 15px;
+    width: 400px;
+    height: 500px;
+
+}
+
+.heart{
+    position: relative;
+    bottom: 40px;
+    left: 15px;
+    width: 25px;
+    height: 25px;
+}
+
+.chat{
+    position: relative;
+    bottom: 40px;
+    left: 30px;
+    width: 25px;
+    height: 25px;
+}
+
+.send{
+    position: relative;
+    bottom: 40px;
+    left: 45px;
+    width: 25px;
+    height: 25px;
+}
+
+.save{
+    position: relative;
+    bottom: 42px;
+    left: 300px;
+    width: 25px;
+    height: 22px;
+}
+
+.bottomsection{
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+    font-family: 'ubuntu', serif;
+    font-size: 14px;
+}
+
+.comment{
+    color:rgb(165, 165, 165);
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+    font-family: 'ubuntu', serif;
+    font-size: 12px;
+}
+
+.date{
+    color:rgb(165, 165, 165);
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+    font-family: 'ubuntu', serif;
+    font-size: 10px;
+}
+.polaroid{
+    width: 430px;
+    height: 720px;
+    bottom: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    padding: 20px;
+    margin: 20px 0px;
+}
+.polaroid:nth-child(1) {
+    position: relative;
+    right: 10px;
+    bottom: 720px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  }

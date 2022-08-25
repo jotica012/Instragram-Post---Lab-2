@@ -1,0 +1,1 @@
+export {default as MyPost} from "./postForIG/post.js"
