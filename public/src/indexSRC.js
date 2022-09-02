@@ -1,4 +1,5 @@
 import * as components from "./components/indexComponents.js"
+import data from "./components/data.js"
 
 class AppContainer extends HTMLElement{
     constructor(){
